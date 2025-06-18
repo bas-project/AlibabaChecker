@@ -16,6 +16,18 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 
 🔧 Easy setup and use
 
+🛠 Requirements:
+
+💻 BAS (Browser Automation Studio)
+
+🌐 Stable internet connection
+
+🧩 Access to email/SMS services
+
+🔒 Use of proxies (IPv4, SOCKS5, http(s), etc.)
+
+🧠 Integration with anti-captcha (optional)
+
 🇷🇺 RU:
 
 Автоматическая программа для проверки работоспособности аккаунтов Alibaba, упрощающая управление и ускоряющая процесс выявления активных и заблокированных аккаунтов.
@@ -31,6 +43,18 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 📊 Возможность быстро выявлять заблокированные или неактивные аккаунты
 
 🔧 Простая настройка и использование
+
+🛠 Требования:
+
+💻 BAS (Browser Automation Studio)
+
+🌐 Стабильное интернет-соединение
+
+🧩 Подключение к сервисам почты/SMS
+
+🔒 Использование прокси (IPv4, SOCKS5, http(s) etc.)
+
+🧠 Интеграция с антикапчей (по выбору)
 
 🇺🇸 You can contact me for similar services
 
