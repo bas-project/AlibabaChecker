@@ -4,7 +4,7 @@
 
 An automated tool for checking the validity of Alibaba accounts, simplifying account management and speeding up the process of identifying active and blocked accounts
 
-✅ Advantages:
+✅ **Advantages**:
 
 🔍 Fast account validity checking
 
@@ -16,7 +16,7 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 
 🔧 Easy setup and use
 
-🛠 Requirements:
+🛠 **Requirements**:
 
 💻 BAS (Browser Automation Studio)
 
@@ -32,7 +32,7 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 
 Автоматическая программа для проверки работоспособности аккаунтов Alibaba, упрощающая управление и ускоряющая процесс выявления активных и заблокированных аккаунтов.
 
-✅ Преимущества:
+✅ **Преимущества**:
 
 🔍 Быстрая проверка работоспособности аккаунтов
 
@@ -44,7 +44,7 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 
 🔧 Простая настройка и использование
 
-🛠 Требования:
+🛠 **Требования**:
 
 💻 BAS (Browser Automation Studio)
 
