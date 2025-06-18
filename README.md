@@ -12,13 +12,9 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 
 🛡️ Simplifies management of large account volumes
 
-⏱️ Saves time and resources
-
 📊 Quickly identifies blocked or inactive accounts
 
-🔧 Easy setup and user-friendly interface
-
-🚀 Increases efficiency in managing Alibaba accounts
+🔧 Easy setup and use
 
 🇷🇺 RU:
 
@@ -32,13 +28,9 @@ An automated tool for checking the validity of Alibaba accounts, simplifying acc
 
 🛡️ Облегчение управления большим количеством аккаунтов
 
-⏱️ Экономия времени и ресурсов
-
 📊 Возможность быстро выявлять заблокированные или неактивные аккаунты
 
 🔧 Простая настройка и использование
-
-🚀 Повышение эффективности работы с аккаунтами Alibaba
 
 🇺🇸 You can contact me for similar services
 
